@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Yang%20%7C%20fuaeon&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,12,14,18,20&fontColor=ffffff&desc=AI%20Application%20Developer%20%C2%B7%20Backend%20Engineer%20%C2%B7%20RAG%20Builder&descAlign=50&descAlignY=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi,%20I'm%20Yang%20%F0%9F%91%8B&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,12,14,18,20&fontColor=ffffff&desc=Making%20AI%20Actually%20Useful%20%C2%B7%20Backend%20Dev%20%C2%B7%20RAG%20Explorer&descAlign=50&descAlignY=60" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I%27m+Yang+%F0%9F%91%8B;AI+Application+Developer;Backend+Engineer;Building+with+Python%2C+RAG%2C+and+LLMs;Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I%27m+Yang+%F0%9F%91%8B;Building+AI+apps+that+actually+work;Backend+Dev+%26+RAG+Enthusiast;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,20 +23,20 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 A Little About Me
 
-> Focused on AI applications, backend systems, and RAG engineering.  
-> Building practical, scalable, and useful products.  
-> Always learning. Always shipping.
+> I'm a developer who loves bridging the gap between cutting-edge AI and solid backend systems. I'm not just here for the hype—I care about building practical, scalable tools that solve real problems. 
 
-- 🔭 Currently working on **AI applications / RAG / backend development**
-- 🌱 Learning deeply in **Python, FastAPI, Django, LangChain, and engineering design**
-- ⚙️ Interested in **LLM application architecture, retrieval systems, and product implementation**
-- 📫 Contact: **fuhuayang899@gmail.com**
+- 🔭 **Right now, I'm focused on:** Building robust backend architectures and diving deep into RAG (Retrieval-Augmented Generation) to make LLMs smarter and more reliable.
+- 🌱 **My current playground:** I'm constantly experimenting with Python, FastAPI, Django, and LangChain.
+- 💡 **My philosophy:** Code should be maintainable, products should be useful, and there's always something new to learn.
+- 📫 **Let's chat:** Got a cool idea, a question about system design, or just want to say hi? Reach out at **fuhuayang899@gmail.com**.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 What I Work With
+
+I enjoy putting together the pieces of a modern application—from the database layer all the way up to the AI prompt engineering.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,js,ts,django,fastapi,vue,react,docker,redis,mysql,postgres,linux,git,vscode&theme=dark" alt="Tech Stack" />
@@ -44,49 +44,29 @@
 
 ---
 
-## ✨ What I Build
+## ✨ What I Actually Build
 
-### AI Applications
-RAG systems, LLM assistants, workflow automation, and research tools.
-
-### Backend Systems
-API design, service integration, authentication, deployment, and data pipelines.
-
-### Practical Products
-I care about usability, maintainability, and real business value.
+- **AI Applications:** Designing RAG pipelines, workflow automation, and tools that make AI do the heavy lifting.
+- **Backend Systems:** Crafting clean APIs, handling authentication, managing data pipelines, and ensuring smooth deployments.
+- **Real-World Products:** I focus heavily on usability and business logic. A great AI model is useless if the backend can't support it!
 
 ---
 
-## 📊 GitHub Overview
+## 📈 My GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fuaeon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuaeon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+  <a href="https://github.com/fuaeon">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fuaeon&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Yang's github activity graph" width="100%" />
+  </a>
 </p>
 
 ---
-
-## 🌌 Current Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/RAG-Optimization-111827?style=for-the-badge" alt="RAG Optimization" />
-  <img src="https://img.shields.io/badge/LLM-Applications-111827?style=for-the-badge" alt="LLM Applications" />
-  <img src="https://img.shields.io/badge/Backend-Architecture-111827?style=for-the-badge" alt="Backend Architecture" />
-  <img src="https://img.shields.io/badge/AI-Powered%20Products-111827?style=for-the-badge" alt="AI Powered Products" />
-</p>
-
----
-
-## 🌐 Links
 
 <p align="center">
   <a href="https://github.com/fuaeon">GitHub</a> •
   <a href="https://github.com/fuaeon?tab=repositories">Repositories</a> •
-  <a href="https://github.com/fuaeon?tab=followers">Followers</a> •
   <a href="mailto:fuhuayang899@gmail.com">Email</a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,14,18,20" alt="footer" />
